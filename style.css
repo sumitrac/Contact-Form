@@ -1,8 +1,7 @@
-.body {
-  background: url('
+body {
+  background: url('maldives image.jpg');
+  background-size: cover;
 }
-
-
 
 input[type=text], select, textarea {
   width: 100%;
